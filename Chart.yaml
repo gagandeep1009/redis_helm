@@ -1,0 +1,18 @@
+apiVersion: v2
+type: application
+name: redis
+description: A Helm chart for Redis
+version: 0.0.2
+appVersion: "6.2.6"
+
+home: https://github.com/gagandeep1009/redis_helm
+sources:
+  - https://github.com/gagandeep1009/redis_helm
+  - https://github.com/docker-library/redis
+  - https://redis.io
+keywords:
+  - redis
+maintainers:
+  - name: secureall
+   # email: info@pascaliske.dev
+   # url: https://pascaliske.dev
